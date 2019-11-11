@@ -14,7 +14,9 @@ output:
 ---
 class:  middle
 
-<img src= './NORClogo.jpg' width = '300'>
+<img src="./NORClogo.jpg" style="width: 50%" />
+
+
 
 # Application materials:
 
