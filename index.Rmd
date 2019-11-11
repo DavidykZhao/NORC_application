@@ -12,10 +12,9 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+
+
 class:  middle
-
-<img src="./NORClogo.jpg" style="width: 50%" />
-
 
 
 # Application materials:
