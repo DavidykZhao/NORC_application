@@ -1,6 +1,6 @@
 ---
 title: "Application package"
-subtitle: 'One stop for ALL materials'
+subtitle: 'For Data Scientist position at NORC'
 author: 'Yikai Zhao'
 date: "(updated: `r Sys.Date()`)"
 output:
@@ -20,8 +20,8 @@ class:  middle
 # Application materials:
 
 #### [Cover letter](Coverletter.pdf)
-#### [CV](https://ykzhao.com/CV/) 
-#### [Resume](https://ykzhao.com/resume/)
+#### [CV](CV_Yikai_NORC.pdf) 
+#### [Resume](YikaiZhao_Resume.pdf)
 #### [Visualization project](http://ykzhao.com/Data_product_pipeline/#1)
 #### [Papers, projects & writings](https://ykzhao.com/)
  
