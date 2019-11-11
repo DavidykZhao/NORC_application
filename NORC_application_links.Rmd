@@ -1,0 +1,29 @@
+---
+title: "Application package"
+subtitle: 'One stop for ALL materials'
+author: 'Yikai Zhao'
+date: "(updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ['norc']
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class:  middle
+
+<img src="NORClogo.jpg" width="300">
+
+# Application materials:
+
+#### [Cover letter](Coverletter.pdf)
+#### [CV](https://ykzhao.com/CV/) 
+#### [Resume](https://ykzhao.com/resume/)
+#### [Visualization project](http://ykzhao.com/Data_product_pipeline/#1)
+#### [Papers, projects & writings](https://ykzhao.com/)
+ 
+
+
+
